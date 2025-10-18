@@ -25,7 +25,6 @@ Here's where you can find me:
 - 🐱 [GitHub](https://github.com/econmaett/)
 - 🦋 [BlueSky](https://bsky.app/@econmaett.github.io)
 - 🐘 [Mastodon](https://mastodon.social/@econmaett)
-- 🐦 [Twitter](https://x.com/EconMaett)
 - 🤖 [Reddit](https://www.reddit.com/user/econmaett/)
 - ❓[Stack Overflow](https://stackoverflow.com/users/23243289/econmaett)
 - 📸 [Instagram](https://www.instagram.com/econmaett/)
